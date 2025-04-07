@@ -16,5 +16,5 @@ My-music-bot is a Telegram bot designed to help users search and download music 
    git clone https://github.com/Abduvali03/My-music-bot.git
    cd My-music-bot
 pip install -r requirements.txt
-BOT_TOKEN = '8072492883:AAEcvfO-jQm2Id7K7h6QoIfojBtWNgOoEbQ'
+BOT_TOKEN = '8072492883:AAEMeZ9ScYhKtWDpUZGCv1c_GsQWKfeoUfU'
 python app.py
